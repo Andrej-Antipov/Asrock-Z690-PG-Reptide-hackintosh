@@ -17,7 +17,7 @@ EFI OpenCore and Clover Folders
 
 * Default and Overclocking with undervolting
 
-### Mac OS Monterey and Ventura EFI OpenCore loader 0.8.9. Clover 5151
+### Mac OS Monterey and Ventura EFI OpenCore loader 0.9.2 and Clover 5151
 
 * All mac os futures are working including DRM playback and sleep/wake S3 and FileVault2
 * Clover has issue with update under T2 mac models
