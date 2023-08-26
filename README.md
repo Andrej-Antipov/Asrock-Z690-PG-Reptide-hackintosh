@@ -4,8 +4,8 @@ EFI OpenCore and Clover Folders
 ## Hardware configuration:
 * CPU: i5-13600kf RaptorLake (Undervolted)
 * MB: Asrock Z690 PG Reptide 
-* RAM: 2x16Gb DDR4 3600 ADATA XPG 
-* GPU: Radeon RX6600 PowerColor Fighter 8Gb
+* RAM: 2x16Gb DDR4 3600 ADATA XPG
+* GPU: Radeon RX580 Sapphire Nitro+ 8Gb
 * SSD: 512Gb Netac 930E Pro NVME M2 (PCI-e 3.0) - Linux
 * SSD: 1Tb Netac NV7000 NVME M2 (PCI-e 4.0) - Mac OS 13
 * SSD: 2Tb Netac NV7000 NVME M2 (PCI-e 4.0) - Windows 11
