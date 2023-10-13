@@ -8,6 +8,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * MB: Asrock Z690 PG Reptide 
 * RAM: 2x16Gb DDR4 3600 ADATA XPG
 * GPU: Radeon RX580 Sapphire Nitro+ 8Gb
+* GPU: Radeon RX5700 Sapphire Pulse 8Gb
 * SSD: 512Gb Netac 930E Pro NVME M2 (PCI-e 3.0) - Linux
 * SSD: 1Tb Netac NV7000 NVME M2 (PCI-e 4.0) - Mac OS 13
 * SSD: 2Tb Netac NV7000 NVME M2 (PCI-e 4.0) - Windows 11
