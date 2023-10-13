@@ -1,6 +1,8 @@
 # Asrock-Z690-PG-Reptide-hackintosh
 EFI OpenCore and Clover Folders
 
+Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe (ATI,Adder) to avoid WindowServer crashes!
+
 ## Hardware configuration:
 * CPU: i5-13600kf RaptorLake (Undervolted)
 * MB: Asrock Z690 PG Reptide 
