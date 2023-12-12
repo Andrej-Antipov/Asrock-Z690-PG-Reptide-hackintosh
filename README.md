@@ -20,8 +20,10 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 * Default and Overclocking with undervolting
 
-### Mac OS Monterey and Ventura EFI OpenCore loader 0.9.5 and Clover 5155
-### Mac OS Sonoma with EFI OpenCore loader 0.9.5 and legacy Broadcom WiFi
+### Mac OS Monterey and Ventura EFI OpenCore loader 0.9.7 and Clover 5156
+### Mac OS Sonoma with EFI OpenCore loader 0.9.7 and legacy Broadcom WiFi
+
+FileVault2 not working in Sonoma with the OCLP patch!
 
 * Only OpenCore loader configuration supports Sonoma wifi legacy patch with OCLP. 
 * All mac os futures are working including DRM playback and sleep/wake S3 and FileVault2
