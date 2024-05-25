@@ -13,7 +13,7 @@ Attention! If you have RX5700 (XT) graphics card, you may have to use the namefr
 * SSD: 1Tb Netac NV7000 NVME M2 (PCI-e 4.0) - Mac OS 13
 * SSD: 2Tb Netac NV7000 NVME M2 (PCI-e 4.0) - Windows 11
 * WIFI/BT: bcm943602CS in M2 A/E keys NGFF adapter or PCI-E adapter
-* BIOS: [v16.01](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
+* BIOS: [v18.01](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 * Display: LG 4K 60 Hz HDR via Display Port (27UK650-W)
 
 ### BIOS setup: 
