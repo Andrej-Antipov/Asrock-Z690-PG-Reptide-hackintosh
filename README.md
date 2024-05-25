@@ -23,7 +23,7 @@ Attention! If you have RX5700 (XT) graphics card, you may have to use the namefr
 ### Mac OS Monterey and Ventura EFI OpenCore loader 1.0.0 and Clover 5156
 ### Mac OS Sonoma with EFI OpenCore loader 1.0.0 and legacy Broadcom WiFi
 
-FileVault2 and Intel LAN not working in Sonoma with the OCLP patch!
+FileVault2 and some Intel LAN not working in Sonoma with the OCLP patch!
 
 * Only OpenCore loader configuration supports Sonoma wifi legacy patch with OCLP. 
 * All mac os futures are working including DRM playback and sleep/wake S3
