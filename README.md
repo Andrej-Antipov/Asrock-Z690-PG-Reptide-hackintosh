@@ -28,3 +28,5 @@ FileVault2 and some Intel LAN not working in Sonoma with the OCLP patch!
 * Only OpenCore loader configuration supports Sonoma wifi legacy patch with OCLP. 
 * All mac os futures are working including DRM playback and sleep/wake S3
 * Clover has issue with update under T2 mac models
+
+wifi legacy patch Sonoma, Sequoya beta. [OCLP](https://drive.google.com/file/d/1poXc2ZGHqONZTQKSdnTMutIrU6v9UOKp/view?usp=sharing)
